@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" href="https://public-frontend-cos.metadl.com/mgx/img/favicon_atoms.ico" type="image/png">
+  <title>Pasquale Louis Pasquale - Data Science Portfolio</title>
+  <meta name="description" content="Professional Data Science Portfolio - Showcasing expertise in machine learning, data analysis, and predictive analytics" />
+  <meta name="author" content="Pasquale Louis Pasquale" />
+
+  <meta property="og:title" content="Pasquale Louis Pasquale - Data Science Portfolio" />
+  <meta property="og:description" content="Professional Data Science Portfolio - Showcasing expertise in machine learning, data analysis, and predictive analytics" />
+  <meta property="og:type" content="website" />
+
+  <script type="module" crossorigin src="/assets/index-BBixE4N_.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-BaK-f5BL.css">
+</head>
+
+<body>
+  <div id="root"></div>
+<script src="https://public-frontend-cos.metadl.com/commonfile/appPlugins-atoms-prod-1770692390023.js"
+                     crossorigin="anonymous"
+                     referrerpolicy="no-referrer"></script></body>
+
+</html>
